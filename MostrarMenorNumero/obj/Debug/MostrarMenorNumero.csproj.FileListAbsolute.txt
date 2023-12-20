@@ -1,0 +1,7 @@
+C:\Users\3674532\Documents\CURSOS\C#\projetos\MostrarMenorNumero\MostrarMenorNumero\bin\Debug\MostrarMenorNumero.exe.config
+C:\Users\3674532\Documents\CURSOS\C#\projetos\MostrarMenorNumero\MostrarMenorNumero\bin\Debug\MostrarMenorNumero.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\MostrarMenorNumero\MostrarMenorNumero\bin\Debug\MostrarMenorNumero.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\MostrarMenorNumero\MostrarMenorNumero\obj\Debug\MostrarMenorNumero.csproj.AssemblyReference.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\MostrarMenorNumero\MostrarMenorNumero\obj\Debug\MostrarMenorNumero.csproj.CoreCompileInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\MostrarMenorNumero\MostrarMenorNumero\obj\Debug\MostrarMenorNumero.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\MostrarMenorNumero\MostrarMenorNumero\obj\Debug\MostrarMenorNumero.pdb
